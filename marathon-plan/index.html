@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>21-Week Marathon Training Program</title>
+  <style>body{font-family:system-ui,sans-serif;margin:0;display:grid;place-items:center;min-height:100vh;background:#f5f7fb;color:#172033}.loading{padding:24px;text-align:center}</style>
+</head>
+<body>
+  <div class="loading">Loading marathon training program…</div>
+  <script>
+    Promise.all(
+      Array.from({length:9},(_,i)=>fetch(`part-${i+1}.txt`).then(r=>{
+        if(!r.ok) throw new Error(`Could not load part ${i+1}`);
+        return r.text();
+      }))
+    ).then(parts=>{
+      document.open();
+      document.write(parts.join(''));
+      document.close();
+    }).catch(error=>{
+      document.body.innerHTML=`<div class="loading"><h1>Unable to load the plan</h1><p>${error.message}</p></div>`;
+    });
+  </script>
+</body>
+</html>
