@@ -1,0 +1,71 @@
+ <li><strong>Tuesday:</strong> easy run plus strides or short sprints</li>
+            <li><strong>Thursday:</strong> tempo, intervals, hills or marathon-effort work</li>
+            <li><strong>Saturday:</strong> easy or steady aerobic run</li>
+            <li><strong>Sunday:</strong> long run</li>
+          </ul>
+        </div>
+        <div class="mini-card">
+          <span class="pill green">Strength, mobility and recovery</span>
+          <ul>
+            <li><strong>Monday:</strong> one full-body strength session</li>
+            <li><strong>Wednesday:</strong> complete rest or easy walking</li>
+            <li><strong>Friday:</strong> mobility and stretching session</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Running intensity guide</h2>
+      <div class="table-wrap">
+        <table style="min-width:700px">
+          <thead><tr><th>Type</th><th>Effort</th><th>How it should feel</th></tr></thead>
+          <tbody>
+            <tr><td>Recovery</td><td>2 to 3 / 10</td><td>Very relaxed, almost effortless</td></tr>
+            <tr><td>Easy</td><td>3 to 4 / 10</td><td>Full conversation possible</td></tr>
+            <tr><td>Steady</td><td>5 to 6 / 10</td><td>Controlled and purposeful</td></tr>
+            <tr><td>Marathon effort</td><td>6 / 10</td><td>Sustainable and smooth</td></tr>
+            <tr><td>Tempo</td><td>7 / 10</td><td>Comfortably hard, short phrases only</td></tr>
+            <tr><td>Intervals</td><td>8 / 10</td><td>Hard but controlled</td></tr>
+            <tr><td>Strides / sprints</td><td>85 to 90%</td><td>Fast, relaxed and technically clean</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Weekly strength session</h2>
+      <div class="mini-card">
+        <span class="pill blue">Monday strength</span>
+        <p>Complete this once per week. Rest 60 to 90 seconds between sets. Choose weights that leave around two clean repetitions in reserve.</p>
+        <div class="grid-2">
+          <ul>
+            <li>Goblet squat or barbell squat: 3 × 8</li>
+            <li>Romanian deadlift: 3 × 8</li>
+            <li>Bulgarian split squat: 3 × 8 each leg</li>
+            <li>Standing calf raise: 3 × 12 to 15</li>
+          </ul>
+          <ul>
+            <li>Bent-knee calf raise: 3 × 12 to 15</li>
+            <li>Hamstring curl: 3 × 10 to 12</li>
+            <li>Plank: 3 × 40 to 60 sec</li>
+            <li>Side plank: 3 × 30 to 45 sec each side</li>
+          </ul>
+        </div>
+      </div>
+      <p>In recovery and peak weeks, reduce the session to two sets. Never train to failure during marathon preparation.</p>
+    </section>
+
+    <section class="section">
+      <h2>Friday mobility and stretching session</h2>
+      <p>Spend 20 to 30 minutes moving slowly and breathing comfortably. This should leave the body looser, not tired.</p>
+      <div class="grid-2">
+        <div class="mini-card">
+          <span class="pill green">Mobility</span>
+          <ol>
+            <li>Cat-cow: 8 slow repetitions</li>
+            <li>Knee-to-wall ankle mobilization: 2 × 10 each side</li>
+            <li>Adductor rock-backs: 2 × 10 each side</li>
+            <li>World's greatest stretch: 2 rounds each side</li>
+            <li>Thoracic rotations: 2 × 8 each side</li>
+            <li>Leg swings: 10 forward and 10 sideways 
