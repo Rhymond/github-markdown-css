@@ -1,0 +1,78 @@
+ic endurance</li>
+          </ul>
+          <p><strong>Example:</strong> 2 km warm-up, 6 km marathon effort, 4 km cooldown.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill green">Progression run</span>
+          <p>A run that gradually becomes faster.</p>
+          <p><strong>Example:</strong></p>
+          <ul>
+            <li>First 5 km easy</li>
+            <li>Next 3 km steady</li>
+            <li>Final 2 km at marathon effort</li>
+          </ul>
+          <p>Start slower than expected and increase the effort gradually.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill green">Long run</span>
+          <p>The longest run of the week, performed mostly at easy effort.</p>
+          <ul>
+            <li><strong>Effort:</strong> 3 to 4 out of 10</li>
+            <li><strong>Purpose:</strong> builds endurance, confidence and fatigue resistance</li>
+          </ul>
+          <p>When the plan says <strong>30 km, final 6 km steady</strong>, run the first 24 km easy and only the final 6 km at steady effort.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill green">Recovery run</span>
+          <p>An extremely relaxed run used to promote movement and circulation.</p>
+          <ul>
+            <li><strong>Effort:</strong> 2 to 3 out of 10</li>
+            <li><strong>Feeling:</strong> easier than a normal easy run</li>
+          </ul>
+          <p>The runner should finish feeling more refreshed than when they started.</p>
+        </div>
+      </div>
+
+      <div class="note" style="margin-top:20px">
+        <strong>Remember:</strong> strides are fast and relaxed, sprints are short and powerful, fartlek changes pace, tempo is comfortably hard, intervals are repeated faster efforts, and marathon effort is controlled and sustainable.
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Warm-up before tempo and sprint sessions</h2>
+      <ol>
+        <li>Run easily for 10 to 15 minutes.</li>
+        <li>Complete 10 forward and 10 sideways leg swings per leg.</li>
+        <li>Perform 10 walking lunges.</li>
+        <li>Perform 10 calf raises.</li>
+        <li>Run 3 × 20-second progressive strides.</li>
+        <li>Begin the main workout.</li>
+      </ol>
+      <p>After every quality session, jog easily for at least 10 minutes.</p>
+    </section>
+
+    <section class="section">
+      <h2>Long-run fueling practice</h2>
+      <p>Starting from the 18 to 20 km runs, practise the exact nutrition strategy intended for race day.</p>
+      <ul>
+        <li>Take one gel approximately every 35 to 40 minutes.</li>
+        <li>Drink water regularly.</li>
+        <li>Use electrolytes in hot or humid conditions.</li>
+        <li>Test the same breakfast planned for race morning.</li>
+        <li>Occasionally use race shoes and race clothing.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>When to reduce training</h2>
+      <ul>
+        <li>Pain changes running form.</li>
+        <li>Easy pace suddenly feels unusually difficult.</li>
+        <li>Soreness remains high for several days.</li>
+        <li>Sleep and recovery are consistently poor.</li>
+        <li>Fatigue accumulates across several sessions.</li>
+      </ul>
+      <div class="note">Do not try to make up missed kilometres later in the week. Resume with an easy run and continue 
