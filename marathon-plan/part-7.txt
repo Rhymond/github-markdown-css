@@ -1,0 +1,79 @@
+li>
+            <li>Walk slowly back down.</li>
+            <li>Wait until breathing is nearly normal.</li>
+            <li>Repeat.</li>
+          </ol>
+          <p>The purpose is strength, power and technique, not exhaustion.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill blue">Fartlek</span>
+          <p>Fartlek means changing speed during a run. It is usually based on time rather than exact distance.</p>
+          <p><strong>Example: 6 × 1 minute fast, 1 minute easy</strong></p>
+          <ul>
+            <li>2 km easy warm-up</li>
+            <li>1 minute faster running</li>
+            <li>1 minute easy jogging</li>
+            <li>Repeat 6 times</li>
+            <li>Easy cooldown</li>
+          </ul>
+          <p>The fast sections should feel controlled, around 7 out of 10.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill blue">Tempo run</span>
+          <p>Sustained running at a comfortably hard effort.</p>
+          <ul>
+            <li><strong>Effort:</strong> around 7 out of 10</li>
+            <li><strong>Breathing:</strong> only short phrases are possible</li>
+            <li><strong>Purpose:</strong> improves the ability to hold a faster pace</li>
+          </ul>
+          <p><strong>Example:</strong> 2 km easy, 3 km tempo, 2 km easy.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill blue">Tempo intervals</span>
+          <p>Tempo running divided into several controlled sections with short recovery jogs.</p>
+          <p><strong>Example: 3 × 2 km tempo with 3 minutes easy jogging</strong></p>
+          <ol>
+            <li>Complete an easy warm-up.</li>
+            <li>Run 2 km at tempo effort.</li>
+            <li>Jog easily for 3 minutes.</li>
+            <li>Repeat until all three repetitions are complete.</li>
+            <li>Finish with an easy cooldown.</li>
+          </ol>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill orange">Intervals</span>
+          <p>Repeated faster efforts with recovery between each repetition.</p>
+          <p><strong>Example: 4 × 800 m at 10K effort</strong></p>
+          <ul>
+            <li>2 km easy warm-up</li>
+            <li>800 m fast but controlled</li>
+            <li>400 m easy jog</li>
+            <li>Repeat 4 times</li>
+            <li>Easy cooldown</li>
+          </ul>
+          <p>The pace should remain similar across all repetitions.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill orange">Time-based intervals</span>
+          <p>Intervals measured by time instead of distance.</p>
+          <p><strong>Example: 6 × 3 minutes faster with 2 minutes jogging</strong></p>
+          <ul>
+            <li>Run faster for 3 minutes.</li>
+            <li>Jog easily for 2 minutes.</li>
+            <li>Repeat 6 times.</li>
+          </ul>
+          <p>Choose a pace that can be maintained consistently throughout the workout.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill green">Marathon effort</span>
+          <p>Running at the controlled effort expected during the marathon.</p>
+          <ul>
+            <li><strong>Effort:</strong> around 6 out of 10</li>
+            <li><strong>Feeling:</strong> smooth, sustainable and controlled</li>
+            <li><strong>Purpose:</strong> teaches race rhythm and specif
