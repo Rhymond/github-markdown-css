@@ -1,0 +1,66 @@
+only</td><td>7 km easy + 6 × 20 sec relaxed sprints</td><td>Rest or easy walk</td><td>2 km warm-up, 3 × 1.5 km tempo with 2 to 3 min jog, 2 km cooldown, about 9 km total</td><td>Gentle mobility + stretch, 15 min</td><td>5 km very easy</td><td>14 to 16 km easy</td><td class="total">35 to 37 km</td></tr>
+            <tr class="taper"><td><strong>21 · Race week</strong></td><td>Rest + gentle mobility</td><td>6 km easy + 4 × 20 sec relaxed strides</td><td>Rest or 20 min walk</td><td>2 km easy, 2 × 1 km at marathon effort with 3 min jog, 2 km cooldown, about 6 km total</td><td>Gentle mobility only, 10 min</td><td>3 km very easy + 3 × 15 sec strides</td><td><strong>Marathon race</strong></td><td class="total">15 km + race<br>57.2 km total</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+
+    <section class="section">
+      <h2>Workout and exercise guide</h2>
+      <p>This section explains the running terms used throughout the program so every workout can be followed correctly.</p>
+
+      <div class="grid-2">
+        <div class="mini-card">
+          <span class="pill green">Easy run</span>
+          <p>A relaxed run at conversational effort.</p>
+          <ul>
+            <li><strong>Effort:</strong> 3 to 4 out of 10</li>
+            <li><strong>Breathing:</strong> calm enough to speak in full sentences</li>
+            <li><strong>Purpose:</strong> builds endurance and supports recovery</li>
+          </ul>
+          <p>Do not chase pace. The runner should finish feeling comfortable.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill blue">Steady run</span>
+          <p>Faster than easy pace, but still controlled.</p>
+          <ul>
+            <li><strong>Effort:</strong> 5 to 6 out of 10</li>
+            <li><strong>Breathing:</strong> deeper, but still controlled</li>
+            <li><strong>Purpose:</strong> improves aerobic strength</li>
+          </ul>
+          <p><strong>Example:</strong> 4 km easy, 3 km steady, 2 km easy.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill orange">Strides</span>
+          <p>Short, fast and relaxed accelerations completed after an easy run.</p>
+          <p><strong>Example: 6 × 20-second strides</strong></p>
+          <ol>
+            <li>Accelerate smoothly for the first 5 seconds.</li>
+            <li>Run fast and relaxed for about 10 seconds.</li>
+            <li>Slow down gradually.</li>
+            <li>Walk or jog for 60 to 90 seconds.</li>
+          </ol>
+          <p>Use about 85 to 90% effort. Strides are not full sprints.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill orange">Flat sprints</span>
+          <p>Short, powerful runs on flat ground.</p>
+          <ul>
+            <li>Warm up for at least 15 minutes.</li>
+            <li>Run fast for 15 to 20 seconds.</li>
+            <li>Walk or jog for around 90 seconds.</li>
+            <li>Repeat while form remains clean.</li>
+          </ul>
+          <p>These should be fast and smooth, not maximum-effort races.</p>
+        </div>
+
+        <div class="mini-card">
+          <span class="pill orange">Hill sprints</span>
+          <p>Very short, powerful runs uphill on a moderate slope.</p>
+          <p><strong>Example: 6 × 10-second hill sprints</strong></p>
+          <ol>
+            <li>Run strongly uphill for 10 to 12 seconds.</li>
