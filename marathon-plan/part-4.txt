@@ -1,0 +1,38 @@
+each leg</li>
+          </ol>
+        </div>
+        <div class="mini-card">
+          <span class="pill orange">Stretching</span>
+          <ol>
+            <li>Couch stretch: 2 × 45 sec each side</li>
+            <li>Glute or figure-four stretch: 2 × 45 sec each side</li>
+            <li>Hamstring stretch: 2 × 30 sec each side</li>
+            <li>Straight-knee calf stretch: 2 × 30 sec each side</li>
+            <li>Bent-knee calf stretch: 2 × 30 sec each side</li>
+            <li>Finish with 2 minutes of relaxed breathing</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Complete 21-week training plan</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Week</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th><th>Sunday</th><th>Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>1</strong></td><td>Strength, 2 sets</td><td>6 km easy + 4 × 20 sec strides</td><td>Rest or easy walk</td><td>6 km easy, final 2 km steady</td><td>Mobility + stretch, 20 min</td><td>5 km easy</td><td>12 km easy</td><td class="total">29 km</td></tr>
+            <tr><td><strong>2</strong></td><td>Strength, 3 sets</td><td>7 km easy + 6 × 20 sec strides</td><td>Rest or 30 min walk</td><td>2 km warm-up, 6 × 1 min faster with 2 min easy, cooldown, 7 km total</td><td>Mobility + stretch, 20 to 25 min</td><td>5 km easy</td><td>14 km easy</td><td class="total">33 km</td></tr>
+            <tr><td><strong>3</strong></td><td>Strength, 3 sets</td><td>7 km easy + 6 × 10 sec hill sprints</td><td>Rest or easy walk</td><td>2 km warm-up, 3 km tempo, 2 km cooldown</td><td>Mobility + stretch, 25 min</td><td>6 km easy</td><td>16 km easy</td><td class="total">36 km</td></tr>
+            <tr class="recovery"><td><strong>4 · Recovery</strong></td><td>Strength, 2 light sets</td><td>6 km easy + 4 strides</td><td>Rest</td><td>6 km fartlek with 6 × 1 min controlled fast</td><td>Gentle mobility, 15 to 20 min</td><td>5 km easy</td><td>12 km easy</td><td class="total">29 km</td></tr>
+
+            <tr><td><strong>5</strong></td><td>Strength, 3 sets</td><td>8 km easy + 6 strides</td><td>Rest or walk</td><td>2 km warm-up, 4 × 800 m at 10K effort with 400 m jog, cooldown, 8 km total</td><td>Mobility + stretch, 25 min</td><td>6 km easy</td><td>18 km easy</td><td class="total">40 km</td></tr>
+            <tr><td><strong>6</strong></td><td>Strength, 3 sets</td><td>8 km easy + 6 × 12 sec hill sprints</td><td>Rest</td><td>2 km warm-up, 2 × 2 km tempo with 3 min jog, cooldown, 9 km total</td><td>Mobility + stretch, 25 min</td><td>6 km easy</td><td>20 km easy</td><td class="total">43 km</td></tr>
+            <tr><td><strong>7</strong></td><td>Strength, 2 to 3 sets</td><td>9 km easy + 6 strides</td><td>Rest</td><td>2 km warm-up, 5 km continuous tempo, 3 km cooldown</td><td>Mobility + stretch, 25 min</td><td>7 km easy</td><td>22 km easy</td><td class="total">48 km</td></tr>
+            <tr class="recovery"><td><strong>8 · Recovery</strong></td><td>Strength, 2 light sets</td><td>7 km easy + 4 strides</td><td>Rest</td><td>8 km relaxed fartlek with 8 × 1 min faster, 1 min easy</td><td>Gentle mobility, 15 to 20 min</td><td>6 km easy</td><td>16 km easy</td><td class="total">37 km</td></tr>
+
+            <tr><td><stro
